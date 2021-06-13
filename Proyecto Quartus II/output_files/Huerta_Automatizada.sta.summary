@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'clk'
+Slack : -5.435
+TNS   : -307.140
+
+Type  : Slow Model Setup 'enter_planta_3'
+Slack : -0.988
+TNS   : -1.388
+
+Type  : Slow Model Setup 'enter_planta_2'
+Slack : -0.655
+TNS   : -1.268
+
+Type  : Slow Model Setup 'enter_planta_1'
+Slack : -0.584
+TNS   : -1.349
+
+Type  : Slow Model Hold 'clk'
+Slack : -0.103
+TNS   : -0.103
+
+Type  : Slow Model Hold 'enter_planta_1'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow Model Hold 'enter_planta_2'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow Model Hold 'enter_planta_3'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'clk'
+Slack : -2.064
+TNS   : -360.679
+
+Type  : Slow Model Minimum Pulse Width 'enter_planta_1'
+Slack : -1.469
+TNS   : -5.135
+
+Type  : Slow Model Minimum Pulse Width 'enter_planta_2'
+Slack : -1.469
+TNS   : -5.135
+
+Type  : Slow Model Minimum Pulse Width 'enter_planta_3'
+Slack : -1.469
+TNS   : -5.135
+
+Type  : Fast Model Setup 'clk'
+Slack : -2.122
+TNS   : -125.345
+
+Type  : Fast Model Setup 'enter_planta_3'
+Slack : 0.252
+TNS   : 0.000
+
+Type  : Fast Model Setup 'enter_planta_2'
+Slack : 0.349
+TNS   : 0.000
+
+Type  : Fast Model Setup 'enter_planta_1'
+Slack : 0.368
+TNS   : 0.000
+
+Type  : Fast Model Hold 'clk'
+Slack : -0.147
+TNS   : -0.400
+
+Type  : Fast Model Hold 'enter_planta_1'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'enter_planta_2'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'enter_planta_3'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'clk'
+Slack : -2.000
+TNS   : -336.222
+
+Type  : Fast Model Minimum Pulse Width 'enter_planta_1'
+Slack : -1.222
+TNS   : -4.222
+
+Type  : Fast Model Minimum Pulse Width 'enter_planta_2'
+Slack : -1.222
+TNS   : -4.222
+
+Type  : Fast Model Minimum Pulse Width 'enter_planta_3'
+Slack : -1.222
+TNS   : -4.222
+
+------------------------------------------------------------
