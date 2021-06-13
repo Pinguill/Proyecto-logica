@@ -1,0 +1,27 @@
+
+State Machine - |Huerta_Automatizada|verificador:inst06|fstate
+Name fstate.valHum fstate.valTemp fstate.valK fstate.valP fstate.valN fstate.data 
+fstate.data 0 0 0 0 0 0 
+fstate.valN 0 0 0 0 1 1 
+fstate.valP 0 0 0 1 0 1 
+fstate.valK 0 0 1 0 0 1 
+fstate.valTemp 0 1 0 0 0 1 
+fstate.valHum 1 0 0 0 0 1 
+
+State Machine - |Huerta_Automatizada|verificador:inst41|fstate
+Name fstate.valHum fstate.valTemp fstate.valK fstate.valP fstate.valN fstate.data 
+fstate.data 0 0 0 0 0 0 
+fstate.valN 0 0 0 0 1 1 
+fstate.valP 0 0 0 1 0 1 
+fstate.valK 0 0 1 0 0 1 
+fstate.valTemp 0 1 0 0 0 1 
+fstate.valHum 1 0 0 0 0 1 
+
+State Machine - |Huerta_Automatizada|verificador:instx|fstate
+Name fstate.valHum fstate.valTemp fstate.valK fstate.valP fstate.valN fstate.data 
+fstate.data 0 0 0 0 0 0 
+fstate.valN 0 0 0 0 1 1 
+fstate.valP 0 0 0 1 0 1 
+fstate.valK 0 0 1 0 0 1 
+fstate.valTemp 0 1 0 0 0 1 
+fstate.valHum 1 0 0 0 0 1 
